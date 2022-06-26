@@ -14,5 +14,8 @@ As a self-driven entrepreneur with software engineering skills, I believe in tec
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# 2021
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/62974285/175827769-635ddbd8-ad73-4dd6-b686-041113447e01.png">
+
 ---
 [![](https://visitcount.itsvg.in/api?id=aslanshaken&icon=0&color=0)](https://visitcount.itsvg.in)
