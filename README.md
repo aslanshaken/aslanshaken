@@ -1,1 +1,1 @@
-### hello people 💫 
+### People
